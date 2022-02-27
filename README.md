@@ -5,3 +5,6 @@ These tours are accessible from [the Numerical Tour web site.](http://www.numeri
 ================================
 
 Copyright (c) 2014 Gabriel Peyre
+
+Lien binder :
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeau-luc/ondelette/blob/7e296da41b16241820cbd30df00bf772bf6effd7/julia/introduction_4_fourier_wavelets.ipynb/IE D)
